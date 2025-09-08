@@ -12,20 +12,29 @@
     - Interest → I have lots of personal experience with using tools and platforms designed for artists (Are.na, Coolors, Pinterest, etc), so I'm interested in looking into what makes these platforms work for us. I'm also super interested in how varied the processes of artists and designers across different fields and industries can be, and want to see more of the potential digital design has for supporting creatives in their work!
     - ---
     - Need → Growing artists often have trouble picking colors that work together and that produce desired responses—simple color wheels provide too much freedom, and too many options.
+        - reason for not picking: i actually do want to work on something like this, but this requires lots of prior research and iteration, which doesn’t align with the pace of this project :(
     - Need → Inexperienced graphic designers can get lost in picking font combinations for the same reasons as the above need.
+        - reason for not picking: same reason as above + would quickly involve managing lots of assets due to nature of fonts
     - Need → Artists and designers think better together—making crucial, insightful, and surprising connections rarely happens in isolation.
+        - reason for not picking: this isn’t the place for bringing ideas related to this to life! i want to save this for later, for when i’m in a better environment and have the freedom to go through the full design process
 - **Sustainability** // increasing reuse in what we use, consume, and experience
     - Interest → I'm not that interested in the overall problem domain—just in the specific observations I made because of prior experience. I'm personally invested in improving thrifting experiences because I know how hard it can be to find good and affordable pieces at times, and in set design because I might take a class in it this semester!
     - ---
     - Need → Donated clothes usually don’t make it to the people that need or want them the most.
+        - reasons for picking -> well-defined compared to the other needs i identified (see explanation below in user needs section), lots of precedents in existing solutions (depop, thredup), was able to immediately think of possible features that might address this observation and some of the underlying reasons behind it
     - Need → Set designers often forget set pieces in storage or discard them unknowingly, increasing waste when starting new projects.
+        - reason for not picking -> i think it would be better if i saved this for a collaboration with a friend who was also interested in tackling this!
     - Need → Households unknowingly waste lots of food on a yearly basis (ingredients, cooked meals, etc)
+        - reason for picking: 
 - **Experiential design** // making personal experiences more engaging, enjoyable, and memorable
     - Interest → This is one of my areas of focus as a design major! I'm interested in the ways human-centered digital design can shape the way we experience, interact with, and participate in the world around us. This includes designing for education, imagination, dialogue, etc.   
     - ---
     - Need → Casual museum visitors don’t remember or learn much from their visits in the long run—in part because they find static, jargon-filled exhibits boring and unengaging.
+        - reason for picking: b/c problem is interesting, there r lots of studies / articles on experience + firsthand info on the internet, can ask mit museum ppl directly if i want bc of connections, running a user trial wouldn’t be too hard b/c we’re close to lots of museums
     - Need → Solo travelling and tourism can be overwhelming at times.
+        - reason for not picking: 
     - Need → Concert attendees spend too much time capturing content to share later instead of having fun in the moment.
+        - reason for not picking -> this is a digital wellbeing problem that isn’t rlly suited for a standalone app
 
 
 
@@ -38,7 +47,15 @@
             - Should museums and experiencing / learning about art and history always be a solitary experience? What if we fostered discussion, social exchange, connection? How do we make this easier, more accessible, and less intimidating? How do we make art more approachable?
         - (aligning visitor activities with their individual desired outcomes)
     - Evidence: 
-        - s
+        - https://wallacefoundation.org/sites/default/files/2023-09/How-Museums-Can-Become-Visitor-Centered.pdf
+        - https://www.aam-us.org/2024/04/26/extending-the-invitation-strategies-for-welcoming-visitors-and-reducing-barriers-to-access/
+        - https://museum-id.com/social-museums-need-understand-future-adam-rozan/
+        - https://slks.dk/fileadmin/user_upload/dokumenter/KS/institutioner/museer/Indsatsomraader/Brugerundersoegelse/Artikler/John_Falk_Understanding_museum_visitors__motivations_and_learning.pdf
+        - https://www.reddit.com/r/travel/comments/1g9bten/remembering_more_from_museums_etc/
+        - https://understandingvisitors.org/articles/Understanding_museum_visitors_today (how visitor demographics have changed)
+        - https://www.aam-us.org/2023/11/27/tips-for-creating-accessible-museums-universal-design-and-universal-design-for-learning/ (super basic guidelines for accessibility in museums)
+        - https://www.reddit.com/r/MuseumPros/comments/xb141h/are_there_any_ways_youve_increased_repeatvisits/ (firsthand opinion on things that can spark continued engagement with exhibitions and museums themselves from museum staff and professionals)
+        - https://www.reddit.com/r/MuseumPros/comments/1m4291e/what_are_some_suggestions_youd_give_to_museum/ (how museum staff want ppl to experience things)
 - **Simplifying the process of finding quality secondhand clothing:** Those who look for secondhand clothing often face lots of barriers to finding good pieces, including resellers who constantly buy them and mark them up on other platforms and a lack of curation and quality control in ordinary thrift stores like Goodwill. I’ve had lots of experience with this—especially with finding pieces that fit my style, which is most likely due to a mismatch between myself and the people that donate clothes to stores and list on some platforms like Poshmark.
     - Stakeholders → buyers/sellers (direct users), thrift stores (even less traffic), textile recycling programs (fewer clothes to process), manufacturers / brands (helps direct focus to quality pieces that are passed down, attention away from fast fashion), friends (would wonder where you got your new fits from!) 
     - Features
